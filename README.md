@@ -2,7 +2,7 @@
 
 **Deterministic geospatial EV-charging site selection with an evidence-grounded AI decision-support layer**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-SUBDOMAIN.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://geoplan-agents-milad.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Community%20Cloud-ff4b4b)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-Agent%20Orchestration-purple)
