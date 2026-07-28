@@ -12,7 +12,7 @@
 ## Live demo
 
 **Public application:**  
-`https://YOUR-APP-SUBDOMAIN.streamlit.app`
+`https://geoplan-agents-milad.streamlit.app/`
 
 The public interface lets visitors:
 
