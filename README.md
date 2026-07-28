@@ -7,12 +7,12 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Community%20Cloud-ff4b4b)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-Agent%20Orchestration-purple)
 
-> Replace `https://geoplan-agents-milad.streamlit.app/` with the public URL shown after deployment.
+> Replace `https://geoplan-agents-milad.streamlit.app` with the public URL shown after deployment.
 
 ## Live demo
 
 **Public application:**  
-`https://geoplan-agents-milad.streamlit.app/`
+`https://geoplan-agents-milad.streamlit.app`
 
 The public interface lets visitors:
 
