@@ -1,0 +1,81 @@
+scenario,selection_round,candidate_id,address,selection_score
+balanced,1,green_p_710,100 Grangeway Avenue,0.7790898310167701
+balanced,2,green_p_821,Kennedy South Lot -155 Transway Cres,0.782492116826922
+balanced,3,green_p_811,Wilson Main Lot - 50 Wilson Heights Blvd,0.7934572375447755
+balanced,4,green_p_813,Finch West Lot - 18 Hendon Ave,0.7748259144302989
+balanced,5,green_p_816,Don Mills Lot - 1800 Sheppard Ave East,0.7601540074378748
+balanced,6,green_p_801,Kipling South Lot - 400 Munster Avenue,0.7485280203881545
+balanced,7,green_p_529,65 Colonel Samuel Smith Park Drive,0.7221263197310438
+balanced,8,green_p_668,2700 Eglinton Avenue West,0.7148448216716815
+balanced,9,green_p_823,Warden South Lot - 701 Warden Ave,0.7103042273974717
+balanced,10,green_p_709,1940 Lawrence Avenue East,0.695985422526615
+balanced,11,green_p_206,2001 Lake Shore Blvd. West (Parks),0.6762561257019657
+balanced,12,green_p_818,Lawrence East Lot - Near 2450 Lawrence Ave East,0.6631484193116459
+balanced,13,green_p_302,545 Lake Shore Boulevard West,0.6624552423054175
+balanced,14,green_p_289,373 Front Street East,0.6495140548606743
+balanced,15,green_p_824,Victoria Main Lot - 777 Victoria Park Avenue,0.6469339805532434
+balanced,16,green_p_663,1 Shortt Street,0.6456955383408636
+balanced,17,green_p_833,3950 Keele Street,0.6440158886789351
+balanced,18,green_p_702,1 Brimley Road (Bluffer's Park),0.6429018453214801
+balanced,19,green_p_152,25 Glenforest Road,0.6990588902626912
+balanced,20,green_p_657,271A Scarlett Road,0.7155751834648072
+coverage_first,1,green_p_700,101 Grangeway Avenue,0.7985588444741812
+coverage_first,2,green_p_821,Kennedy South Lot -155 Transway Cres,0.8005222174556232
+coverage_first,3,green_p_811,Wilson Main Lot - 50 Wilson Heights Blvd,0.8336423089310072
+coverage_first,4,green_p_801,Kipling South Lot - 400 Munster Avenue,0.7610465387720733
+coverage_first,5,green_p_529,65 Colonel Samuel Smith Park Drive,0.760691281495353
+coverage_first,6,green_p_816,Don Mills Lot - 1800 Sheppard Ave East,0.7477025833758175
+coverage_first,7,green_p_813,Finch West Lot - 18 Hendon Ave,0.7454657359076027
+coverage_first,8,green_p_668,2700 Eglinton Avenue West,0.7361690732459507
+coverage_first,9,green_p_709,1940 Lawrence Avenue East,0.7242564892826641
+coverage_first,10,green_p_823,Warden South Lot - 701 Warden Ave,0.7214631855959839
+coverage_first,11,green_p_702,1 Brimley Road (Bluffer's Park),0.7185803408041224
+coverage_first,12,green_p_152,25 Glenforest Road,0.7503015587175976
+coverage_first,13,green_p_206,2001 Lake Shore Blvd. West (Parks),0.7701811853486169
+coverage_first,14,green_p_818,Lawrence East Lot - Near 2450 Lawrence Ave East,0.7636070246116882
+coverage_first,15,green_p_657,271A Scarlett Road,0.7618098139767744
+coverage_first,16,green_p_663,1 Shortt Street,0.802088017710032
+coverage_first,17,green_p_706,284 Milner Avenue,0.7548195951041956
+coverage_first,18,green_p_424,2170 Bayview avenue,0.7503674139163354
+coverage_first,19,green_p_833,3950 Keele Street,0.7625706782018382
+coverage_first,20,green_p_209,300 Remembrance Drive ,0.7485182988973251
+demand_first,1,green_p_710,100 Grangeway Avenue,0.7708123280089125
+demand_first,2,green_p_821,Kennedy South Lot -155 Transway Cres,0.7785677426986479
+demand_first,3,green_p_813,Finch West Lot - 18 Hendon Ave,0.7870626071303007
+demand_first,4,green_p_811,Wilson Main Lot - 50 Wilson Heights Blvd,0.7702555971427718
+demand_first,5,green_p_816,Don Mills Lot - 1800 Sheppard Ave East,0.7714505830832549
+demand_first,6,green_p_801,Kipling South Lot - 400 Munster Avenue,0.7426311556193799
+demand_first,7,green_p_302,545 Lake Shore Boulevard West,0.714265754803988
+demand_first,8,green_p_823,Warden South Lot - 701 Warden Ave,0.7057843280233936
+demand_first,9,green_p_668,2700 Eglinton Avenue West,0.7035735563237018
+demand_first,10,green_p_289,373 Front Street East,0.6968548259468373
+demand_first,11,green_p_529,65 Colonel Samuel Smith Park Drive,0.6964069311322792
+demand_first,12,green_p_206,2001 Lake Shore Blvd. West (Parks),0.6956215075649032
+demand_first,13,green_p_824,Victoria Main Lot - 777 Victoria Park Avenue,0.6888607444488682
+demand_first,14,green_p_709,1940 Lawrence Avenue East,0.6837318286150914
+demand_first,15,green_p_818,Lawrence East Lot - Near 2450 Lawrence Ave East,0.6826026829092912
+demand_first,16,green_p_36,110 Queen Street West (Nathan Phillips Square Garage) - reduced parking - Sept. to Dec.,0.6805392555219258
+demand_first,17,green_p_833,3950 Keele Street,0.6709727364358592
+demand_first,18,green_p_663,1 Shortt Street,0.6636949679326778
+demand_first,19,green_p_706,284 Milner Avenue,0.6475872935887101
+demand_first,20,green_p_39,20 Castlefield Avenue,0.6454159790487242
+equity_balanced,1,green_p_710,100 Grangeway Avenue,0.7926390193862048
+equity_balanced,2,green_p_821,Kennedy South Lot -155 Transway Cres,0.7928932593195803
+equity_balanced,3,green_p_811,Wilson Main Lot - 50 Wilson Heights Blvd,0.8041344131084796
+equity_balanced,4,green_p_813,Finch West Lot - 18 Hendon Ave,0.7896552129399234
+equity_balanced,5,green_p_816,Don Mills Lot - 1800 Sheppard Ave East,0.7758175282575213
+equity_balanced,6,green_p_801,Kipling South Lot - 400 Munster Avenue,0.7591890339736304
+equity_balanced,7,green_p_529,65 Colonel Samuel Smith Park Drive,0.727955663422583
+equity_balanced,8,green_p_668,2700 Eglinton Avenue West,0.7231574465086293
+equity_balanced,9,green_p_823,Warden South Lot - 701 Warden Ave,0.7132744800449314
+equity_balanced,10,green_p_206,2001 Lake Shore Blvd. West (Parks),0.6987618748809773
+equity_balanced,11,green_p_709,1940 Lawrence Avenue East,0.6977090635431389
+equity_balanced,12,green_p_302,545 Lake Shore Boulevard West,0.6859070034356063
+equity_balanced,13,green_p_818,Lawrence East Lot - Near 2450 Lawrence Ave East,0.6744273397323597
+equity_balanced,14,green_p_289,373 Front Street East,0.6726064634127484
+equity_balanced,15,green_p_824,Victoria Main Lot - 777 Victoria Park Avenue,0.6622501080450522
+equity_balanced,16,green_p_833,3950 Keele Street,0.6548652837203195
+equity_balanced,17,green_p_663,1 Shortt Street,0.6537264029177785
+equity_balanced,18,green_p_657,271A Scarlett Road,0.6458979232359329
+equity_balanced,19,green_p_702,1 Brimley Road (Bluffer's Park),0.6359215239560118
+equity_balanced,20,green_p_152,25 Glenforest Road,0.6969333759045603

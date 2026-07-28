@@ -1,0 +1,24 @@
+{
+  "city": "Toronto",
+  "project_type": "public_ev_charging",
+  "number_of_recommendations": 20,
+  "analysis_crs": "EPSG:26917",
+  "display_crs": "EPSG:4326",
+  "distance_units": "metres",
+  "buffer_distances_m": [
+    500,
+    1000,
+    2000,
+    5000
+  ],
+  "existing_charger_exclusion_m": 100,
+  "minimum_selected_site_separation_m": 1500,
+  "service_radius_m": 1000,
+  "category_weights": {
+    "demand": 0.3,
+    "coverage": 0.25,
+    "accessibility": 0.2,
+    "feasibility": 0.15,
+    "equity": 0.1
+  }
+}

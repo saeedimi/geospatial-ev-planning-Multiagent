@@ -1,0 +1,40 @@
+candidate_id,times_selected,selection_frequency,address,overall_score
+green_p_663,100,1.0,1 Shortt Street,0.6074770835736472
+green_p_816,100,1.0,Don Mills Lot - 1800 Sheppard Ave East,0.7002337786544738
+green_p_668,100,1.0,2700 Eglinton Avenue West,0.625248621230211
+green_p_206,100,1.0,2001 Lake Shore Blvd. West (Parks),0.6363520408570049
+green_p_818,100,1.0,Lawrence East Lot - Near 2450 Lawrence Ave East,0.7072896681129822
+green_p_821,100,1.0,Kennedy South Lot -155 Transway Cres,0.7454211648500446
+green_p_813,99,0.99,Finch West Lot - 18 Hendon Ave,0.732036746462456
+green_p_833,99,0.99,3950 Keele Street,0.6280522668357206
+green_p_709,99,0.99,1940 Lawrence Avenue East,0.6488482617638213
+green_p_811,97,0.97,Wilson Main Lot - 50 Wilson Heights Blvd,0.6902885871859884
+green_p_823,96,0.96,Warden South Lot - 701 Warden Ave,0.6421663654380737
+green_p_529,96,0.96,65 Colonel Samuel Smith Park Drive,0.6180086086978915
+green_p_801,93,0.93,Kipling South Lot - 400 Munster Avenue,0.6726916453791518
+green_p_710,90,0.9,100 Grangeway Avenue,0.7877772435089739
+green_p_706,79,0.79,284 Milner Avenue,0.7420596630870859
+green_p_657,78,0.78,271A Scarlett Road,0.5765757780816441
+green_p_152,71,0.71,25 Glenforest Road,0.5644207660998856
+green_p_824,70,0.7,Victoria Main Lot - 777 Victoria Park Avenue,0.6372507756875279
+green_p_702,64,0.64,1 Brimley Road (Bluffer's Park),0.5475571378750427
+green_p_302,63,0.63,545 Lake Shore Boulevard West,0.6530096699392655
+green_p_289,57,0.57,373 Front Street East,0.6443062372815535
+green_p_424,35,0.35,2170 Bayview avenue,0.5553019220618358
+green_p_209,29,0.29,300 Remembrance Drive ,0.6152702350608092
+green_p_164,25,0.25,453 Spadina Road,0.5967711647653606
+green_p_36,14,0.14,110 Queen Street West (Nathan Phillips Square Garage) - reduced parking - Sept. to Dec.,0.588345753402752
+green_p_700,9,0.09,101 Grangeway Avenue,0.784461015765621
+green_p_802,6,0.06,Islington Main Lot - 3330 Bloor Street West,0.6812063325696354
+green_p_401,6,0.06,246 Brooke Avenue,0.5845248293389078
+green_p_822,4,0.04,Warden North Lot - 705 Warden Ave,0.6588696245792675
+green_p_516,4,0.04,WOOLGAR LANEWAY REAR OF 1124 THE QUEENSWAY,0.5421909286913855
+green_p_510,4,0.04,3239 Lake Shore Boulevard West,0.5910347163945981
+green_p_107,3,0.03,251 MacPherson Avenue,0.5681112065685491
+green_p_829,3,0.03,Transit Road Lot - 25 Transit Rd,0.6544104996397194
+green_p_512,2,0.02,3220 Bloor Street West,0.6020127716914225
+green_p_414,1,0.01,3885 Yonge Street,0.5776573580906426
+green_p_520,1,0.01,20 Royalavon Crescent,0.6363930188173479
+green_p_814,1,0.01,"Finch East - 814 Willowdale Ave - partial closure, reduced spaces",0.7238382003783522
+green_p_707,1,0.01,1530 Markham Road - minor capital repairs onsite,0.7216298089609535
+green_p_711,1,0.01,158 Borough Drive,0.7169347150686072

@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Raw downloaded data
+data/raw/*
+!data/raw/.gitkeep
+
+# Derived spatial layers: keep only the compact demo layers
+data/processed/*
+!data/processed/.gitkeep
+!data/processed/scored_ev_charging_candidates.geojson
+!data/processed/selected_ev_charging_sites.geojson
+
+# Outputs: keep selected compact evidence and validation files
+outputs/*
+!outputs/README.md
+!outputs/agent_candidate_summary.json
+!outputs/selected_site_sequence.csv
+!outputs/planning_configuration.json
+!outputs/scenario_results.csv
+!outputs/sensitivity_results.csv
+!outputs/final_agent_report.json
+!outputs/final_agent_report_validation.json
+!outputs/final_agent_report_grounding.json
+!outputs/agent_evaluation_cases.csv
+!outputs/agent_evaluation_summary.csv
+!outputs/agent_evaluation_summary.json
+!outputs/multiagent_trace.csv
+
+# Large or temporary map exports
+*.html
+*.parquet
+*.feather
+*.gpkg
