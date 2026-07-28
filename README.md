@@ -12,7 +12,7 @@
 ## Live demo
 
 **Public application:**  
-`https://geoplan-agents-milad.streamlit.app`
+[Open GeoPlan Agents](https://geoplan-agents-milad.streamlit.app/)
 
 The public interface lets visitors:
 
