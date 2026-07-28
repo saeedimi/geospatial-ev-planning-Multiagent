@@ -14,7 +14,7 @@
 [Open GeoPlan Agents](https://geoplan-agents-milad.streamlit.app/)
 
 **Public application:**  
-[Open GeoPlan Agents](https://geoplan-agents-milad.streamlit.app/)
+"https://geoplan-agents-milad.streamlit.app/"
 
 The public interface lets visitors:
 
